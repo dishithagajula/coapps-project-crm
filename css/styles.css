@@ -9,6 +9,7 @@ body{
     min-height:100vh;
     background: linear-gradient(to right top, rgb(219, 208, 208), rgb(152, 186, 228),rgb(103, 160, 182),grey,rgb(192, 192, 112))
 }
+/* form class to create a box  */
 form{
     background-color: blanchedalmond;
     width:350px;
@@ -20,6 +21,7 @@ form{
     transform:translate(-50%,-50%);
 
 }
+/* h1 for headings */
 h1{
     text-align:center;
     margin-bottom: 45px;
@@ -40,7 +42,7 @@ h1{
     height: 30px;
     font-size: 20px;
 }
-.loginBtn{
+.Btn{
     transition:0.5s;
     height: 45px;
     width: 100%;
@@ -51,7 +53,7 @@ h1{
     color:rgb(2, 26, 46);
     font-size: 17px;
 }
-.loginBtn:hover{
+.Btn:hover{
     background-position: right;
     font-size: 18px;
 }
