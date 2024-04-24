@@ -1,1 +1,1 @@
-// java script
+// java scriptj
