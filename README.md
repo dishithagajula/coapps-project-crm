@@ -1,10 +1,4 @@
-Client Management System with a graphics analytics dashboard
-
-Technologies: 
-              Frontend:
-            React, React Hooks, Mobx, react-router-dom, react-chartjs-2, recharts, Material UI, fontawesome.
-               Backend:
-            Express, mySQL, sequelize.
+Customer Relationship Management 
 
 Project ScreenShots:
 
